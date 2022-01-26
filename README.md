@@ -1,8 +1,7 @@
+<center>
+<center>
 
-<div align="center">
-<img src="https://youcode.ma/images/logo.png" />
-</div>
-<br />
+![alt text](https://youcode.ma/images/logo.png)
 
 <div align="center">
   <h1>Youcode</h1>
