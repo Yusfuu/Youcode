@@ -1,7 +1,7 @@
 <center>
 <center>
 
-![alt text](https://youcode.ma/images/logo.png)
+![alt text](https://raw.githubusercontent.com/Yusfuu/Youcode/main/logo.png)
 
 <div align="center">
   <h1>Youcode</h1>
