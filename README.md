@@ -21,3 +21,31 @@
 </div>
 
 This repository contains a number of ready-to-run youcode projects demonstrating various use cases. Pick a Project and follow the instructions in the corresponding README.
+
+# Technology used in this repository
+
+- [Reactjs](https://reactjs.org/)
+- [Docker](https://www.docker.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Expressjs](https://expressjs.com/)
+- [Jest](https://jestjs.io/)
+- [Prisma](https://www.prisma.io/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [Mongodb](https://www.mongodb.com/)
+- [Mysql](https://www.mysql.com/)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+<hr>
+
+## Authors
+
+- [@Youssef Hajjari](https://twitter.com/Yosufuu)
