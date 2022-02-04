@@ -4,7 +4,7 @@
 <br />
 
 <div align="center">
-  <h1>Youcode</h1>
+  <h1>Ready-to-run Youcode projects 🚀</h1>
   <a href="https://github.com/prisma/prisma/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" /></a>
   <br />
   <br />
@@ -19,3 +19,5 @@
   <br />
   <hr />
 </div>
+
+This repository contains a number of ready-to-run youcode projects demonstrating various use cases. Pick a Project and follow the instructions in the corresponding README.
