@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "ESNext",
+    "module": "CommonJS",
+    "outDir": "build",
+    "strict": true,
+    "lib": ["esnext"],
+    "esModuleInterop": true,
+    "moduleResolution": "Node",
+    "incremental": true,
+    "noImplicitAny": false,
+    "baseUrl": "src",
+    "removeComments": true,
+    "paths": {
+      "@lib/*": ["lib/*"],
+      "@utils/*": ["utils/*"],
+      "@routes/*": ["routes/*"],
+      "@controllers/*": ["controllers/*"],
+      "@middlewares/*": ["middlewares/*"],
+      "@interfaces/*": ["interfaces/*"],
+      "@errors/*": ["errors/*"],
+      "@config/*": ["config/*"]
+    }
+  },
+  "exclude": ["build", "tests", "node_modules"],
+  "include": ["src/**/*.ts"]
+}
